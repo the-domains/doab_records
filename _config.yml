@@ -2,6 +2,7 @@ name: doab_records
 favicon: null
 layout_spectrum: 0.5983824653085321
 typography_spectrum: 0.8578796978108585
+title: doab records
 cta:
   domain: null
   bucket: null
